@@ -36,7 +36,7 @@ There is a notebook available here to showcase work related to above questions. 
 <a name="result"/>
 
 ## Result
-The final results can be found in the post on medium.
+The final results can be found in the post on [medium](https://medium.com/@yijingwen1990/how-to-get-your-app-a-higher-rating-in-google-play-store-d1871e6b6706).
 
 
 <a name="licensing"/>
